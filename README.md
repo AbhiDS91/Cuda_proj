@@ -33,5 +33,5 @@ You can use the provided `Makefile` to compile both versions:
 
 ```bash
 make
-
+```
 and the executable files you'll see, one for CPU and the other for CUDA
