@@ -1,0 +1,4 @@
+CPU Matrix multiplication took 147 ms
+C[0][0] = 512
+GPU Matrix multiplication took 2.63334 ms
+C[0][0] = 512
